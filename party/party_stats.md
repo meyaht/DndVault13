@@ -6,6 +6,34 @@
 
 ---
 
+## PARTY DYNAMICS
+Frontline / damage sponge: Chugguh (AC 22, Aura of Protection), Keeper (magical resistance, does NOT trigger opportunity attacks on approach)
+Skirmisher: Diana (speed 45, Evasion, Stunning Strike — sets up the whole party)
+Melee damage: Korda (Battle Master precision and control), Aldric (War Magic + Booming Blade)
+Control / action economy: Nameroc (Conjure Animals, Sleet Storm, Hold Person, Polymorph)
+Auras (Chugguh, 10 ft radius): +1 to all saving throws. Immune to Charmed while Chugguh conscious.
+Key synergy: Diana stuns → party attacks with advantage. Korda's Commander's Strike gives an ally a reaction attack. Nameroc summons stretch action economy.
+Coverage gaps: Low Charisma party-wide — social pressure falls to Chugguh. Nameroc is AC 12, keep him back. Keeper moves 20 ft standard — position before combat starts, not during.
+
+## PLAYER NUDGES
+Zack (Chugguh) commonly forgets:
+- Graze mastery: a MISS with the Glaive still deals +3 damage to the target
+- Lay on Hands is a BONUS ACTION (2024 rules)
+- Sacred Weapon (Channel Divinity): adds +CHA mod to all attacks for 1 minute — often worth using
+- Ring 1/LR: can knock a creature to 0 HP unconscious instead of dead — useful for captures
+- Aura of Protection is passive and always on — remind Zack when party members make saves within 10 ft
+
+## NOTABLE ITEMS
+| Item | Holder | Notes |
+|------|--------|-------|
+| Ring of the Thirteenth Compact | Chugguh | Attuned. +1 AC/saves. 1/LR: 0 HP = unconscious not dead. 1/LR: Zone of Truth free. |
+| Cloak of Protection | Chugguh | Attuned. +1 AC/saves. |
+| Vault Sword | Aldric | Bonded. Magical. +1d6 radiant vs fiends/undead. Cannot be disarmed. Summon as BA. |
+| Red Tome (12 vault locations) | Nameroc | Annotations deliberately offset ~2 degrees. Active mystery — do not resolve casually. |
+| Whale Tooth | Chugguh | From Regis's shop. Intended to pass on. Recipient unresolved. |
+
+---
+
 ## QUICK REFERENCE COMBAT TABLE
 | Character | HP | AC | Attack | Save DC | Initiative |
 |-----------|----|----|--------|---------|-----------|

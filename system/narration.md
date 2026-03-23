@@ -58,6 +58,16 @@ The Keeper (DM-controlled):
 - Finds sunlight very bright. Notes that the mountains have eroded.
 - Does not use more words than necessary. When it speaks, everyone listens.
 
+## Pronunciation Guide (TTS)
+- Chugguh: CHUG-uh
+- Nameroc: NAY-mer-ok
+- Korda: KOR-dah
+- Aldric: AL-drik
+- Anauroch: ah-NAW-rok
+- Adamant: ADD-ah-mant
+- Thessaly: THESS-ah-lee
+- Serevak: SEHR-eh-vak (resolved NPC, archive only)
+
 ## NPC Voice Principles
 - Every NPC has one thing they want in this scene. Play toward it.
 - Give each NPC one verbal habit or physical tell. Use it consistently.
